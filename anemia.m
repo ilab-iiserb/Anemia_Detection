@@ -9,7 +9,7 @@ fontSize = 26;
 %===============================================================================
 
 %Upload image
-[rgbImage, map] = imread("image_3n.JPG");
+[rgbImage, map] = imread("(Upload_image_here).jpg");
 
 % Get the dimensions of the image.  numberOfColorBands should be = 1.
 [rows, columns, numberOfColorBands] = size(rgbImage);
